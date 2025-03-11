@@ -25,4 +25,6 @@ Um projeto simples para sortear amigos secretos de forma interativa no navegador
  ├── 📄  styles.css  
 
 
+
+
 ![ff043987-239b-4661-bdb1-7f4ca6092c48](https://github.com/user-attachments/assets/949aad7f-7662-4ac2-9579-16cf7d44886a)
